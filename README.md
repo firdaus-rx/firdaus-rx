@@ -1,4 +1,4 @@
-# Hey 👋, I'm [@firdaus-rx](https://t.me/firdaus_rx)!
+# Hey 👋, I'm [Firdaus](https://t.me/firdaus_rx)!
 
 - <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="5dp"> I'm from Indonesia
 - 🎓 I’m a college student 
