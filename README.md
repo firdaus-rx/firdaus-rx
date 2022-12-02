@@ -2,7 +2,8 @@
 
 - <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="5dp"> I'm from Indonesia
 - 🎓 I’m a college student 
-- 🌱 I'm currently learning Python (?)
+- 🌱 I'm currently learning Shell
+- 🌱 I'm currently learning Python
 - 😄 Pronouns: he/him/his
 
 **Languages and Tools:**
