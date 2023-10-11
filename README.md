@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdaus</h1>
 <h3 align="center">Sedang Belajar Github</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdaus-rx&label=Profile%20views&color=0e75b6&style=flat" alt="firdaus-rx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdaus-rx" alt="firdaus-rx" /></a> </p>
-
 - 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **I think im handsome :v**
